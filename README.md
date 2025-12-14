@@ -1,9 +1,6 @@
 # vuln-bank-devsecops
 Using the Vulnerable Bank App project to teach Engineers how to automate security testing of vulnerable applications in the CI/CD Pipeline.
 
-Here’s a polished **GitHub project description** you can use for your repository **SecureBanking**. It’s written in a professional style that recruiters and hiring managers will appreciate:
-
----
 
 ## 📌 SecureBanking
 
